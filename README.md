@@ -34,5 +34,5 @@ This project is a simple command-line based Bank Account Management System imple
 - All data, including account details and transaction history, is stored locally in directories named after the account holder.
 
 ## Authors
-- This project was created by Kavya Arora and Akash Malik.
+- This project was created by Vatan Ganagwar
   
